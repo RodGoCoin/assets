@@ -1,0 +1,13 @@
+{
+    "name": "RodGo Coin",
+    "website": "https://www.rodgo.info",
+    "description": "RodGo Coin is TRC20 Base Token with Limited Supply. This token integrates the real world with the blockchain space. This provide reliable, unpredictable and verified transactions with trust.",
+    "explorer": "https://tronscan.io/#/token20/TQsseV6uX62xVgCSn8YWKZ4E7UDMvGF35D",
+    "symbol": "RodGo",
+    "type": "Token",
+    "decimals": 12,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ]
+}
